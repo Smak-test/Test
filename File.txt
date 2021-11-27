@@ -1,1 +1,2 @@
 First line
+Author's changes. Line 2
